@@ -1,110 +1,110 @@
 [
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_title_item.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_decor_include.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_voice_freq_ctrl.xml",
-        "source": "/home/adrian/StudioProjects/EarController170220/app/src/main/res/layout/activity_voice_freq_ctrl.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_sound_track_ctrl.xml",
-        "source": "/home/adrian/StudioProjects/EarController170220/app/src/main/res/layout/activity_sound_track_ctrl.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_home.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_activity_chooser_view_include.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_decor_include.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_tab.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_menu_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_decor_overlay.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_search_view.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_tabbar.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_tab.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_mode_close_item.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_decor.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/adrian/StudioProjects/EarController170220/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_home.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_mode_close_item.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_voice_freq_ctrl.xml",
+        "source": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/layout/activity_voice_freq_ctrl.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/activity_sound_track_ctrl.xml",
+        "source": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/layout/activity_sound_track_ctrl.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_action_bar_decor_overlay.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/layout/abc_activity_chooser_view.xml"
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/layout/abc_action_bar_decor.xml"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "outputFile": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 113
                 },
                 "from": {
-                    "file": "/home/adrian/StudioProjects/EarController170220/app/src/main/res/values-v11/styles.xml",
+                    "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values-v11/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 19,
+                        "startOffset": 17,
                         "endColumn": 63,
-                        "endOffset": 78
+                        "endOffset": 76
                     }
                 }
             },
@@ -31,7 +31,7 @@
                     "endOffset": 622
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 1143
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -91,7 +91,7 @@
                     "endOffset": 1351
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -110,7 +110,7 @@
                     "endOffset": 1468
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -129,7 +129,7 @@
                     "endOffset": 1593
                 },
                 "from": {
-                    "file": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/values-v11/values.xml",
+                    "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values-v11/values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,

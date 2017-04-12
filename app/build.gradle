@@ -9,8 +9,8 @@ android {
         minSdkVersion 8
         targetSdkVersion 19
         compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
+            sourceCompatibility JavaVersion.VERSION_1_6
+            targetCompatibility JavaVersion.VERSION_1_6
         }
 
 //        ndk {
@@ -40,5 +40,4 @@ dependencies {
     compile 'com.android.support:support-v4:19.0.0'
     compile 'com.android.support:appcompat-v7:19.0.0'
     compile files('src/main/libs/earctrllib.jar')
-    compile project(':earctrllib')
 }

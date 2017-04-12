@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <jni.h>
 #include <android/log.h>
-#include <math.h>
+#include <stdlib.h>
 
 #define ResultBufferSize 32 //should be big enough
 #define SampleRate 32000
