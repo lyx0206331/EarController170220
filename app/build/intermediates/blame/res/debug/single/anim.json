@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/adrian/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/res/anim/abc_fade_in.xml"
+    }
+]

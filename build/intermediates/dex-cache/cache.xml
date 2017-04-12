@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/adrian/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/adrian/下载/Guitar-Tunner-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_5b4c5c8e69befd9be354e13e410cd6c9bd1a7138/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adrian/StudioProjects/EarController170220/app/src/main/libs/earctrllib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb17e4f9afdf2e2b707e35751588cbe8670982bc">
+        <dex dex="/home/adrian/StudioProjects/EarController170220/app/build/intermediates/pre-dexed/debug/earctrllib_dde38a65b72df6602ebdcbc11a798b245d9d8592.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adrian/下载/Guitar-Tunner-master1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ae89a2826c8d664e64575da29a82b46ff8ee23da">
+        <dex dex="/home/adrian/下载/Guitar-Tunner-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_87e2d9b2c6040d7cf005b07a4513791562f62f90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/adrian/下载/Guitar-Tunner-master1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="44970e4592ad7f8717f0255b1facd333edf3a56a">
+        <dex dex="/home/adrian/下载/Guitar-Tunner-master1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d1bc2dc03181842e03f45e8034cc972fffab1d8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adrian/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/home/adrian/StudioProjects/EarController170220/app/build/intermediates/pre-dexed/debug/support-v4-19.0.0_b59aae79d34e8cdfc533e640e1d5fc8ced4fd283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/adrian/.android/build-cache/bbbab2c35a8ce31f29875dd861f95700ccc9bac7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="/home/adrian/StudioProjects/EarController170220/app/build/intermediates/pre-dexed/debug/classes_33f458e62ab3cc073cbf5eda1507502ae644e8cd.jar" />
+    </item>
+
+</items>
