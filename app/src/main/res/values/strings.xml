@@ -1,6 +1,6 @@
 <resources>
 
-    <string name="app_name">钱大爷说叫随便</string>
+    <string name="app_name">耳机按键音频测试软件</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="start_tunning">开始调音</string>

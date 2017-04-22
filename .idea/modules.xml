@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EarController170220.iml" filepath="$PROJECT_DIR$/EarController170220.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agoralib/agoralib.iml" filepath="$PROJECT_DIR$/agoralib/agoralib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/earctrllib/earctrllib.iml" filepath="$PROJECT_DIR$/earctrllib/earctrllib.iml" />
     </modules>

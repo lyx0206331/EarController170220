@@ -2,13 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="/Volumes/MacintoshHD/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.0.0/support-v4-19.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afee690af14bd2c32d400cdf78e746fd45c386fa">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.0_aadcf0c5be94c81dca15e0a3f5ea3cf6a84c027f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b83d13f0b295c0645c5585c1693f2049b59bfa06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/libs/earctrllib.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="299f35d4fc2f120f34095a3f5e624c894e293989">
-        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/pre-dexed/debug/earctrllib_fa0647d5501e2765ae3305ad589583712754a20e.jar" />
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/transforms/dex/debug/folders/1000/2/earctrllib_fa0647d5501e2765ae3305ad589583712754a20e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4aeea06dfeccf0850ac4eea1e23b335bbde7991d">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9940c545adc7ba223c2a1ffd62482f31d36ab3f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb69b5c2e53e59d82f7439f3217f46f9d98f0c89">
+        <dex dex="/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91e2f6a5b6cee99e4a8f77fb6835f8ceffbe94ab/classes.dex" />
     </item>
 
 </items>

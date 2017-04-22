@@ -2173,8 +2173,8 @@
                     "startLine": 170,
                     "startColumn": 4,
                     "startOffset": 12867,
-                    "endColumn": 44,
-                    "endOffset": 12907
+                    "endColumn": 47,
+                    "endOffset": 12910
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
@@ -2182,8 +2182,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 17,
-                        "endColumn": 44,
-                        "endOffset": 57
+                        "endColumn": 47,
+                        "endOffset": 60
                     }
                 }
             },
@@ -2191,18 +2191,18 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 12912,
+                    "startOffset": 12915,
                     "endColumn": 50,
-                    "endOffset": 12958
+                    "endOffset": 12961
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 62,
+                        "startOffset": 65,
                         "endColumn": 50,
-                        "endOffset": 108
+                        "endOffset": 111
                     }
                 }
             },
@@ -2210,18 +2210,18 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 12963,
+                    "startOffset": 12966,
                     "endColumn": 46,
-                    "endOffset": 13005
+                    "endOffset": 13008
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 174,
+                        "startOffset": 177,
                         "endColumn": 46,
-                        "endOffset": 216
+                        "endOffset": 219
                     }
                 }
             },
@@ -2229,18 +2229,18 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13010,
+                    "startOffset": 13013,
                     "endColumn": 45,
-                    "endOffset": 13051
+                    "endOffset": 13054
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 221,
+                        "startOffset": 224,
                         "endColumn": 45,
-                        "endOffset": 262
+                        "endOffset": 265
                     }
                 }
             },
@@ -2248,18 +2248,18 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 13056,
+                    "startOffset": 13059,
                     "endColumn": 38,
-                    "endOffset": 13090
+                    "endOffset": 13093
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 267,
+                        "startOffset": 270,
                         "endColumn": 38,
-                        "endOffset": 301
+                        "endOffset": 304
                     }
                 }
             },
@@ -2267,18 +2267,18 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13095,
+                    "startOffset": 13098,
                     "endColumn": 38,
-                    "endOffset": 13129
+                    "endOffset": 13132
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 306,
+                        "startOffset": 309,
                         "endColumn": 38,
-                        "endOffset": 340
+                        "endOffset": 343
                     }
                 }
             },
@@ -2286,18 +2286,18 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 13134,
+                    "startOffset": 13137,
                     "endColumn": 38,
-                    "endOffset": 13168
+                    "endOffset": 13171
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 345,
+                        "startOffset": 348,
                         "endColumn": 38,
-                        "endOffset": 379
+                        "endOffset": 382
                     }
                 }
             },
@@ -2305,18 +2305,18 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 13173,
+                    "startOffset": 13176,
                     "endColumn": 60,
-                    "endOffset": 13229
+                    "endOffset": 13232
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 113,
+                        "startOffset": 116,
                         "endColumn": 60,
-                        "endOffset": 169
+                        "endOffset": 172
                     }
                 }
             },
@@ -2324,9 +2324,9 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13234,
+                    "startOffset": 13237,
                     "endColumn": 57,
-                    "endOffset": 13287
+                    "endOffset": 13290
                 },
                 "from": {
                     "file": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/values/styles.xml",
@@ -2343,10 +2343,10 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 13292,
+                    "startOffset": 13295,
                     "endLine": 181,
                     "endColumn": 12,
-                    "endOffset": 13487
+                    "endOffset": 13490
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2364,10 +2364,10 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 13492,
+                    "startOffset": 13495,
                     "endLine": 186,
                     "endColumn": 12,
-                    "endOffset": 13770
+                    "endOffset": 13773
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2385,10 +2385,10 @@
                 "to": {
                     "startLine": 187,
                     "startColumn": 4,
-                    "startOffset": 13775,
+                    "startOffset": 13778,
                     "endLine": 190,
                     "endColumn": 12,
-                    "endOffset": 13978
+                    "endOffset": 13981
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2406,10 +2406,10 @@
                 "to": {
                     "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 13983,
+                    "startOffset": 13986,
                     "endLine": 193,
                     "endColumn": 12,
-                    "endOffset": 14109
+                    "endOffset": 14112
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2427,10 +2427,10 @@
                 "to": {
                     "startLine": 194,
                     "startColumn": 4,
-                    "startOffset": 14114,
+                    "startOffset": 14117,
                     "endLine": 197,
                     "endColumn": 12,
-                    "endOffset": 14371
+                    "endOffset": 14374
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2448,10 +2448,10 @@
                 "to": {
                     "startLine": 198,
                     "startColumn": 4,
-                    "startOffset": 14376,
+                    "startOffset": 14379,
                     "endLine": 201,
                     "endColumn": 12,
-                    "endOffset": 14633
+                    "endOffset": 14636
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2469,10 +2469,10 @@
                 "to": {
                     "startLine": 202,
                     "startColumn": 4,
-                    "startOffset": 14638,
+                    "startOffset": 14641,
                     "endLine": 205,
                     "endColumn": 12,
-                    "endOffset": 14911
+                    "endOffset": 14914
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2490,10 +2490,10 @@
                 "to": {
                     "startLine": 206,
                     "startColumn": 4,
-                    "startOffset": 14916,
+                    "startOffset": 14919,
                     "endLine": 209,
                     "endColumn": 12,
-                    "endOffset": 15125
+                    "endOffset": 15128
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2511,10 +2511,10 @@
                 "to": {
                     "startLine": 210,
                     "startColumn": 4,
-                    "startOffset": 15130,
+                    "startOffset": 15133,
                     "endLine": 212,
                     "endColumn": 12,
-                    "endOffset": 15262
+                    "endOffset": 15265
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2532,9 +2532,9 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15267,
+                    "startOffset": 15270,
                     "endColumn": 140,
-                    "endOffset": 15403
+                    "endOffset": 15406
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2551,9 +2551,9 @@
                 "to": {
                     "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 15408,
+                    "startOffset": 15411,
                     "endColumn": 140,
-                    "endOffset": 15544
+                    "endOffset": 15547
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2570,9 +2570,9 @@
                 "to": {
                     "startLine": 215,
                     "startColumn": 4,
-                    "startOffset": 15549,
+                    "startOffset": 15552,
                     "endColumn": 139,
-                    "endOffset": 15684
+                    "endOffset": 15687
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2589,9 +2589,9 @@
                 "to": {
                     "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 15689,
+                    "startOffset": 15692,
                     "endColumn": 133,
-                    "endOffset": 15818
+                    "endOffset": 15821
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2608,9 +2608,9 @@
                 "to": {
                     "startLine": 217,
                     "startColumn": 4,
-                    "startOffset": 15823,
+                    "startOffset": 15826,
                     "endColumn": 141,
-                    "endOffset": 15960
+                    "endOffset": 15963
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2627,9 +2627,9 @@
                 "to": {
                     "startLine": 218,
                     "startColumn": 4,
-                    "startOffset": 15965,
+                    "startOffset": 15968,
                     "endColumn": 141,
-                    "endOffset": 16102
+                    "endOffset": 16105
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2646,9 +2646,9 @@
                 "to": {
                     "startLine": 219,
                     "startColumn": 4,
-                    "startOffset": 16107,
+                    "startOffset": 16110,
                     "endColumn": 127,
-                    "endOffset": 16230
+                    "endOffset": 16233
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2665,9 +2665,9 @@
                 "to": {
                     "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 16235,
+                    "startOffset": 16238,
                     "endColumn": 121,
-                    "endOffset": 16352
+                    "endOffset": 16355
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2684,9 +2684,9 @@
                 "to": {
                     "startLine": 221,
                     "startColumn": 4,
-                    "startOffset": 16357,
+                    "startOffset": 16360,
                     "endColumn": 127,
-                    "endOffset": 16480
+                    "endOffset": 16483
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2703,9 +2703,9 @@
                 "to": {
                     "startLine": 222,
                     "startColumn": 4,
-                    "startOffset": 16485,
+                    "startOffset": 16488,
                     "endColumn": 135,
-                    "endOffset": 16616
+                    "endOffset": 16619
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2722,9 +2722,9 @@
                 "to": {
                     "startLine": 223,
                     "startColumn": 4,
-                    "startOffset": 16621,
+                    "startOffset": 16624,
                     "endColumn": 151,
-                    "endOffset": 16768
+                    "endOffset": 16771
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2741,9 +2741,9 @@
                 "to": {
                     "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 16773,
+                    "startOffset": 16776,
                     "endColumn": 129,
-                    "endOffset": 16898
+                    "endOffset": 16901
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2760,9 +2760,9 @@
                 "to": {
                     "startLine": 225,
                     "startColumn": 4,
-                    "startOffset": 16903,
+                    "startOffset": 16906,
                     "endColumn": 145,
-                    "endOffset": 17044
+                    "endOffset": 17047
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2779,9 +2779,9 @@
                 "to": {
                     "startLine": 226,
                     "startColumn": 4,
-                    "startOffset": 17049,
+                    "startOffset": 17052,
                     "endColumn": 137,
-                    "endOffset": 17182
+                    "endOffset": 17185
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2798,9 +2798,9 @@
                 "to": {
                     "startLine": 227,
                     "startColumn": 4,
-                    "startOffset": 17187,
+                    "startOffset": 17190,
                     "endColumn": 153,
-                    "endOffset": 17336
+                    "endOffset": 17339
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2817,9 +2817,9 @@
                 "to": {
                     "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 17341,
+                    "startOffset": 17344,
                     "endColumn": 131,
-                    "endOffset": 17468
+                    "endOffset": 17471
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2836,9 +2836,9 @@
                 "to": {
                     "startLine": 229,
                     "startColumn": 4,
-                    "startOffset": 17473,
+                    "startOffset": 17476,
                     "endColumn": 147,
-                    "endOffset": 17616
+                    "endOffset": 17619
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2855,10 +2855,10 @@
                 "to": {
                     "startLine": 230,
                     "startColumn": 4,
-                    "startOffset": 17621,
+                    "startOffset": 17624,
                     "endLine": 234,
                     "endColumn": 12,
-                    "endOffset": 17911
+                    "endOffset": 17914
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2876,10 +2876,10 @@
                 "to": {
                     "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 17916,
+                    "startOffset": 17919,
                     "endLine": 237,
                     "endColumn": 12,
-                    "endOffset": 18123
+                    "endOffset": 18126
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2897,10 +2897,10 @@
                 "to": {
                     "startLine": 238,
                     "startColumn": 4,
-                    "startOffset": 18128,
+                    "startOffset": 18131,
                     "endLine": 240,
                     "endColumn": 12,
-                    "endOffset": 18351
+                    "endOffset": 18354
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2918,10 +2918,10 @@
                 "to": {
                     "startLine": 241,
                     "startColumn": 4,
-                    "startOffset": 18356,
+                    "startOffset": 18359,
                     "endLine": 243,
                     "endColumn": 12,
-                    "endOffset": 18558
+                    "endOffset": 18561
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2939,10 +2939,10 @@
                 "to": {
                     "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 18563,
+                    "startOffset": 18566,
                     "endLine": 246,
                     "endColumn": 12,
-                    "endOffset": 18781
+                    "endOffset": 18784
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2960,10 +2960,10 @@
                 "to": {
                     "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 18786,
+                    "startOffset": 18789,
                     "endLine": 249,
                     "endColumn": 12,
-                    "endOffset": 18987
+                    "endOffset": 18990
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -2981,10 +2981,10 @@
                 "to": {
                     "startLine": 250,
                     "startColumn": 4,
-                    "startOffset": 18992,
+                    "startOffset": 18995,
                     "endLine": 252,
                     "endColumn": 12,
-                    "endOffset": 19216
+                    "endOffset": 19219
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3002,9 +3002,9 @@
                 "to": {
                     "startLine": 253,
                     "startColumn": 4,
-                    "startOffset": 19221,
+                    "startOffset": 19224,
                     "endColumn": 112,
-                    "endOffset": 19329
+                    "endOffset": 19332
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3021,9 +3021,9 @@
                 "to": {
                     "startLine": 254,
                     "startColumn": 4,
-                    "startOffset": 19334,
+                    "startOffset": 19337,
                     "endColumn": 128,
-                    "endOffset": 19458
+                    "endOffset": 19461
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3040,10 +3040,10 @@
                 "to": {
                     "startLine": 255,
                     "startColumn": 4,
-                    "startOffset": 19463,
+                    "startOffset": 19466,
                     "endLine": 257,
                     "endColumn": 12,
-                    "endOffset": 19666
+                    "endOffset": 19669
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3061,9 +3061,9 @@
                 "to": {
                     "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 19671,
+                    "startOffset": 19674,
                     "endColumn": 123,
-                    "endOffset": 19790
+                    "endOffset": 19793
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3080,9 +3080,9 @@
                 "to": {
                     "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 19795,
+                    "startOffset": 19798,
                     "endColumn": 129,
-                    "endOffset": 19920
+                    "endOffset": 19923
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3099,9 +3099,9 @@
                 "to": {
                     "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 19925,
+                    "startOffset": 19928,
                     "endColumn": 129,
-                    "endOffset": 20050
+                    "endOffset": 20053
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3118,10 +3118,10 @@
                 "to": {
                     "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 20055,
+                    "startOffset": 20058,
                     "endLine": 263,
                     "endColumn": 12,
-                    "endOffset": 20264
+                    "endOffset": 20267
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3139,9 +3139,9 @@
                 "to": {
                     "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 20269,
+                    "startOffset": 20272,
                     "endColumn": 133,
-                    "endOffset": 20398
+                    "endOffset": 20401
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3158,10 +3158,10 @@
                 "to": {
                     "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 20403,
+                    "startOffset": 20406,
                     "endLine": 298,
                     "endColumn": 12,
-                    "endOffset": 22887
+                    "endOffset": 22890
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3179,10 +3179,10 @@
                 "to": {
                     "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 22892,
+                    "startOffset": 22895,
                     "endLine": 302,
                     "endColumn": 12,
-                    "endOffset": 23174
+                    "endOffset": 23177
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3200,10 +3200,10 @@
                 "to": {
                     "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 23179,
+                    "startOffset": 23182,
                     "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 23465
+                    "endOffset": 23468
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3221,9 +3221,9 @@
                 "to": {
                     "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 23470,
+                    "startOffset": 23473,
                     "endColumn": 89,
-                    "endOffset": 23555
+                    "endOffset": 23558
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3240,9 +3240,9 @@
                 "to": {
                     "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 23560,
+                    "startOffset": 23563,
                     "endColumn": 103,
-                    "endOffset": 23659
+                    "endOffset": 23662
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3259,10 +3259,10 @@
                 "to": {
                     "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 23664,
+                    "startOffset": 23667,
                     "endLine": 342,
                     "endColumn": 12,
-                    "endOffset": 26287
+                    "endOffset": 26290
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3280,10 +3280,10 @@
                 "to": {
                     "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 26292,
+                    "startOffset": 26295,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 28839
+                    "endOffset": 28842
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3301,9 +3301,9 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 28844,
+                    "startOffset": 28847,
                     "endColumn": 53,
-                    "endOffset": 28893
+                    "endOffset": 28896
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3320,10 +3320,10 @@
                 "to": {
                     "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 28898,
+                    "startOffset": 28901,
                     "endLine": 424,
                     "endColumn": 12,
-                    "endOffset": 32267
+                    "endOffset": 32270
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3341,10 +3341,10 @@
                 "to": {
                     "startLine": 425,
                     "startColumn": 4,
-                    "startOffset": 32272,
+                    "startOffset": 32275,
                     "endLine": 473,
                     "endColumn": 12,
-                    "endOffset": 35770
+                    "endOffset": 35773
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3362,10 +3362,10 @@
                 "to": {
                     "startLine": 474,
                     "startColumn": 4,
-                    "startOffset": 35775,
+                    "startOffset": 35778,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 37688
+                    "endOffset": 37691
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3383,9 +3383,9 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 37693,
+                    "startOffset": 37696,
                     "endColumn": 65,
-                    "endOffset": 37754
+                    "endOffset": 37757
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3402,9 +3402,9 @@
                 "to": {
                     "startLine": 501,
                     "startColumn": 4,
-                    "startOffset": 37759,
+                    "startOffset": 37762,
                     "endColumn": 87,
-                    "endOffset": 37842
+                    "endOffset": 37845
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3421,9 +3421,9 @@
                 "to": {
                     "startLine": 502,
                     "startColumn": 4,
-                    "startOffset": 37847,
+                    "startOffset": 37850,
                     "endColumn": 99,
-                    "endOffset": 37942
+                    "endOffset": 37945
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3440,9 +3440,9 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 37947,
+                    "startOffset": 37950,
                     "endColumn": 101,
-                    "endOffset": 38044
+                    "endOffset": 38047
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3459,9 +3459,9 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 38049,
+                    "startOffset": 38052,
                     "endColumn": 103,
-                    "endOffset": 38148
+                    "endOffset": 38151
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3478,9 +3478,9 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 38153,
+                    "startOffset": 38156,
                     "endColumn": 103,
-                    "endOffset": 38252
+                    "endOffset": 38255
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3497,9 +3497,9 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 38257,
+                    "startOffset": 38260,
                     "endColumn": 93,
-                    "endOffset": 38346
+                    "endOffset": 38349
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3516,9 +3516,9 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 38351,
+                    "startOffset": 38354,
                     "endColumn": 113,
-                    "endOffset": 38460
+                    "endOffset": 38463
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3535,9 +3535,9 @@
                 "to": {
                     "startLine": 508,
                     "startColumn": 4,
-                    "startOffset": 38465,
+                    "startOffset": 38468,
                     "endColumn": 111,
-                    "endOffset": 38572
+                    "endOffset": 38575
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3554,9 +3554,9 @@
                 "to": {
                     "startLine": 509,
                     "startColumn": 4,
-                    "startOffset": 38577,
+                    "startOffset": 38580,
                     "endColumn": 89,
-                    "endOffset": 38662
+                    "endOffset": 38665
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3573,9 +3573,9 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 38667,
+                    "startOffset": 38670,
                     "endColumn": 107,
-                    "endOffset": 38770
+                    "endOffset": 38773
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3592,9 +3592,9 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 38775,
+                    "startOffset": 38778,
                     "endColumn": 109,
-                    "endOffset": 38880
+                    "endOffset": 38883
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3611,10 +3611,10 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 38885,
+                    "startOffset": 38888,
                     "endLine": 526,
                     "endColumn": 12,
-                    "endOffset": 40033
+                    "endOffset": 40036
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3632,10 +3632,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 40038,
+                    "startOffset": 40041,
                     "endLine": 531,
                     "endColumn": 12,
-                    "endOffset": 40387
+                    "endOffset": 40390
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3653,10 +3653,10 @@
                 "to": {
                     "startLine": 532,
                     "startColumn": 4,
-                    "startOffset": 40392,
+                    "startOffset": 40395,
                     "endLine": 536,
                     "endColumn": 12,
-                    "endOffset": 40624
+                    "endOffset": 40627
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3674,10 +3674,10 @@
                 "to": {
                     "startLine": 537,
                     "startColumn": 4,
-                    "startOffset": 40629,
+                    "startOffset": 40632,
                     "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 41098
+                    "endOffset": 41101
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3695,10 +3695,10 @@
                 "to": {
                     "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 41103,
+                    "startOffset": 41106,
                     "endLine": 552,
                     "endColumn": 12,
-                    "endOffset": 41485
+                    "endOffset": 41488
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3716,10 +3716,10 @@
                 "to": {
                     "startLine": 553,
                     "startColumn": 4,
-                    "startOffset": 41490,
+                    "startOffset": 41493,
                     "endLine": 562,
                     "endColumn": 12,
-                    "endOffset": 42071
+                    "endOffset": 42074
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3737,9 +3737,9 @@
                 "to": {
                     "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 42076,
+                    "startOffset": 42079,
                     "endColumn": 108,
-                    "endOffset": 42180
+                    "endOffset": 42183
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3756,10 +3756,10 @@
                 "to": {
                     "startLine": 564,
                     "startColumn": 4,
-                    "startOffset": 42185,
+                    "startOffset": 42188,
                     "endLine": 566,
                     "endColumn": 12,
-                    "endOffset": 42392
+                    "endOffset": 42395
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3777,10 +3777,10 @@
                 "to": {
                     "startLine": 567,
                     "startColumn": 4,
-                    "startOffset": 42397,
+                    "startOffset": 42400,
                     "endLine": 573,
                     "endColumn": 12,
-                    "endOffset": 42868
+                    "endOffset": 42871
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3798,10 +3798,10 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 42873,
+                    "startOffset": 42876,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 43242
+                    "endOffset": 43245
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3819,10 +3819,10 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 43247,
+                    "startOffset": 43250,
                     "endLine": 585,
                     "endColumn": 12,
-                    "endOffset": 43621
+                    "endOffset": 43624
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3840,10 +3840,10 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 43626,
+                    "startOffset": 43629,
                     "endLine": 591,
                     "endColumn": 12,
-                    "endOffset": 43974
+                    "endOffset": 43977
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3861,10 +3861,10 @@
                 "to": {
                     "startLine": 592,
                     "startColumn": 4,
-                    "startOffset": 43979,
+                    "startOffset": 43982,
                     "endLine": 598,
                     "endColumn": 12,
-                    "endOffset": 44434
+                    "endOffset": 44437
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3882,10 +3882,10 @@
                 "to": {
                     "startLine": 599,
                     "startColumn": 4,
-                    "startOffset": 44439,
+                    "startOffset": 44442,
                     "endLine": 601,
                     "endColumn": 12,
-                    "endOffset": 44626
+                    "endOffset": 44629
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3903,10 +3903,10 @@
                 "to": {
                     "startLine": 602,
                     "startColumn": 4,
-                    "startOffset": 44631,
+                    "startOffset": 44634,
                     "endLine": 605,
                     "endColumn": 12,
-                    "endOffset": 44885
+                    "endOffset": 44888
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3924,9 +3924,9 @@
                 "to": {
                     "startLine": 606,
                     "startColumn": 4,
-                    "startOffset": 44890,
+                    "startOffset": 44893,
                     "endColumn": 105,
-                    "endOffset": 44991
+                    "endOffset": 44994
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3943,10 +3943,10 @@
                 "to": {
                     "startLine": 607,
                     "startColumn": 4,
-                    "startOffset": 44996,
+                    "startOffset": 44999,
                     "endLine": 612,
                     "endColumn": 12,
-                    "endOffset": 45435
+                    "endOffset": 45438
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3964,9 +3964,9 @@
                 "to": {
                     "startLine": 613,
                     "startColumn": 4,
-                    "startOffset": 45440,
+                    "startOffset": 45443,
                     "endColumn": 111,
-                    "endOffset": 45547
+                    "endOffset": 45550
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -3983,10 +3983,10 @@
                 "to": {
                     "startLine": 614,
                     "startColumn": 4,
-                    "startOffset": 45552,
+                    "startOffset": 45555,
                     "endLine": 624,
                     "endColumn": 12,
-                    "endOffset": 46246
+                    "endOffset": 46249
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4004,9 +4004,9 @@
                 "to": {
                     "startLine": 625,
                     "startColumn": 4,
-                    "startOffset": 46251,
+                    "startOffset": 46254,
                     "endColumn": 109,
-                    "endOffset": 46356
+                    "endOffset": 46359
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4023,9 +4023,9 @@
                 "to": {
                     "startLine": 626,
                     "startColumn": 4,
-                    "startOffset": 46361,
+                    "startOffset": 46364,
                     "endColumn": 99,
-                    "endOffset": 46456
+                    "endOffset": 46459
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4042,9 +4042,9 @@
                 "to": {
                     "startLine": 627,
                     "startColumn": 4,
-                    "startOffset": 46461,
+                    "startOffset": 46464,
                     "endColumn": 111,
-                    "endOffset": 46568
+                    "endOffset": 46571
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4061,9 +4061,9 @@
                 "to": {
                     "startLine": 628,
                     "startColumn": 4,
-                    "startOffset": 46573,
+                    "startOffset": 46576,
                     "endColumn": 127,
-                    "endOffset": 46696
+                    "endOffset": 46699
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4080,9 +4080,9 @@
                 "to": {
                     "startLine": 629,
                     "startColumn": 4,
-                    "startOffset": 46701,
+                    "startOffset": 46704,
                     "endColumn": 113,
-                    "endOffset": 46810
+                    "endOffset": 46813
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4099,9 +4099,9 @@
                 "to": {
                     "startLine": 630,
                     "startColumn": 4,
-                    "startOffset": 46815,
+                    "startOffset": 46818,
                     "endColumn": 129,
-                    "endOffset": 46940
+                    "endOffset": 46943
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4118,9 +4118,9 @@
                 "to": {
                     "startLine": 631,
                     "startColumn": 4,
-                    "startOffset": 46945,
+                    "startOffset": 46948,
                     "endColumn": 115,
-                    "endOffset": 47056
+                    "endOffset": 47059
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4137,9 +4137,9 @@
                 "to": {
                     "startLine": 632,
                     "startColumn": 4,
-                    "startOffset": 47061,
+                    "startOffset": 47064,
                     "endColumn": 131,
-                    "endOffset": 47188
+                    "endOffset": 47191
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4156,9 +4156,9 @@
                 "to": {
                     "startLine": 633,
                     "startColumn": 4,
-                    "startOffset": 47193,
+                    "startOffset": 47196,
                     "endColumn": 115,
-                    "endOffset": 47304
+                    "endOffset": 47307
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4175,9 +4175,9 @@
                 "to": {
                     "startLine": 634,
                     "startColumn": 4,
-                    "startOffset": 47309,
+                    "startOffset": 47312,
                     "endColumn": 131,
-                    "endOffset": 47436
+                    "endOffset": 47439
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4194,9 +4194,9 @@
                 "to": {
                     "startLine": 635,
                     "startColumn": 4,
-                    "startOffset": 47441,
+                    "startOffset": 47444,
                     "endColumn": 105,
-                    "endOffset": 47542
+                    "endOffset": 47545
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4213,9 +4213,9 @@
                 "to": {
                     "startLine": 636,
                     "startColumn": 4,
-                    "startOffset": 47547,
+                    "startOffset": 47550,
                     "endColumn": 125,
-                    "endOffset": 47668
+                    "endOffset": 47671
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4232,9 +4232,9 @@
                 "to": {
                     "startLine": 637,
                     "startColumn": 4,
-                    "startOffset": 47673,
+                    "startOffset": 47676,
                     "endColumn": 123,
-                    "endOffset": 47792
+                    "endOffset": 47795
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4251,9 +4251,9 @@
                 "to": {
                     "startLine": 638,
                     "startColumn": 4,
-                    "startOffset": 47797,
+                    "startOffset": 47800,
                     "endColumn": 117,
-                    "endOffset": 47910
+                    "endOffset": 47913
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4270,9 +4270,9 @@
                 "to": {
                     "startLine": 639,
                     "startColumn": 4,
-                    "startOffset": 47915,
+                    "startOffset": 47918,
                     "endColumn": 119,
-                    "endOffset": 48030
+                    "endOffset": 48033
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4289,9 +4289,9 @@
                 "to": {
                     "startLine": 640,
                     "startColumn": 4,
-                    "startOffset": 48035,
+                    "startOffset": 48038,
                     "endColumn": 121,
-                    "endOffset": 48152
+                    "endOffset": 48155
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4308,10 +4308,10 @@
                 "to": {
                     "startLine": 641,
                     "startColumn": 4,
-                    "startOffset": 48157,
+                    "startOffset": 48160,
                     "endLine": 649,
                     "endColumn": 12,
-                    "endOffset": 48905
+                    "endOffset": 48908
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4329,10 +4329,10 @@
                 "to": {
                     "startLine": 650,
                     "startColumn": 4,
-                    "startOffset": 48910,
+                    "startOffset": 48913,
                     "endLine": 654,
                     "endColumn": 12,
-                    "endOffset": 49274
+                    "endOffset": 49277
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4350,10 +4350,10 @@
                 "to": {
                     "startLine": 655,
                     "startColumn": 4,
-                    "startOffset": 49279,
+                    "startOffset": 49282,
                     "endLine": 660,
                     "endColumn": 12,
-                    "endOffset": 49830
+                    "endOffset": 49833
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4371,9 +4371,9 @@
                 "to": {
                     "startLine": 661,
                     "startColumn": 4,
-                    "startOffset": 49835,
+                    "startOffset": 49838,
                     "endColumn": 112,
-                    "endOffset": 49943
+                    "endOffset": 49946
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4390,9 +4390,9 @@
                 "to": {
                     "startLine": 662,
                     "startColumn": 4,
-                    "startOffset": 49948,
+                    "startOffset": 49951,
                     "endColumn": 126,
-                    "endOffset": 50070
+                    "endOffset": 50073
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4409,9 +4409,9 @@
                 "to": {
                     "startLine": 663,
                     "startColumn": 4,
-                    "startOffset": 50075,
+                    "startOffset": 50078,
                     "endColumn": 114,
-                    "endOffset": 50185
+                    "endOffset": 50188
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4428,10 +4428,10 @@
                 "to": {
                     "startLine": 664,
                     "startColumn": 4,
-                    "startOffset": 50190,
+                    "startOffset": 50193,
                     "endLine": 666,
                     "endColumn": 12,
-                    "endOffset": 50421
+                    "endOffset": 50424
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4449,9 +4449,9 @@
                 "to": {
                     "startLine": 667,
                     "startColumn": 4,
-                    "startOffset": 50426,
+                    "startOffset": 50429,
                     "endColumn": 114,
-                    "endOffset": 50536
+                    "endOffset": 50539
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4468,9 +4468,9 @@
                 "to": {
                     "startLine": 668,
                     "startColumn": 4,
-                    "startOffset": 50541,
+                    "startOffset": 50544,
                     "endColumn": 128,
-                    "endOffset": 50665
+                    "endOffset": 50668
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4487,9 +4487,9 @@
                 "to": {
                     "startLine": 669,
                     "startColumn": 4,
-                    "startOffset": 50670,
+                    "startOffset": 50673,
                     "endColumn": 104,
-                    "endOffset": 50770
+                    "endOffset": 50773
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4506,9 +4506,9 @@
                 "to": {
                     "startLine": 670,
                     "startColumn": 4,
-                    "startOffset": 50775,
+                    "startOffset": 50778,
                     "endColumn": 120,
-                    "endOffset": 50891
+                    "endOffset": 50894
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4525,10 +4525,10 @@
                 "to": {
                     "startLine": 671,
                     "startColumn": 4,
-                    "startOffset": 50896,
+                    "startOffset": 50899,
                     "endLine": 673,
                     "endColumn": 12,
-                    "endOffset": 51116
+                    "endOffset": 51119
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4546,10 +4546,10 @@
                 "to": {
                     "startLine": 674,
                     "startColumn": 4,
-                    "startOffset": 51121,
+                    "startOffset": 51124,
                     "endLine": 677,
                     "endColumn": 12,
-                    "endOffset": 51481
+                    "endOffset": 51484
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4567,10 +4567,10 @@
                 "to": {
                     "startLine": 678,
                     "startColumn": 4,
-                    "startOffset": 51486,
+                    "startOffset": 51489,
                     "endLine": 680,
                     "endColumn": 12,
-                    "endOffset": 51698
+                    "endOffset": 51701
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4588,10 +4588,10 @@
                 "to": {
                     "startLine": 681,
                     "startColumn": 4,
-                    "startOffset": 51703,
+                    "startOffset": 51706,
                     "endLine": 685,
                     "endColumn": 12,
-                    "endOffset": 52085
+                    "endOffset": 52088
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4609,9 +4609,9 @@
                 "to": {
                     "startLine": 686,
                     "startColumn": 4,
-                    "startOffset": 52090,
+                    "startOffset": 52093,
                     "endColumn": 120,
-                    "endOffset": 52206
+                    "endOffset": 52209
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4628,10 +4628,10 @@
                 "to": {
                     "startLine": 687,
                     "startColumn": 4,
-                    "startOffset": 52211,
+                    "startOffset": 52214,
                     "endLine": 693,
                     "endColumn": 12,
-                    "endOffset": 52674
+                    "endOffset": 52677
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4649,10 +4649,10 @@
                 "to": {
                     "startLine": 694,
                     "startColumn": 4,
-                    "startOffset": 52679,
+                    "startOffset": 52682,
                     "endLine": 696,
                     "endColumn": 12,
-                    "endOffset": 52873
+                    "endOffset": 52876
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4670,9 +4670,9 @@
                 "to": {
                     "startLine": 697,
                     "startColumn": 4,
-                    "startOffset": 52878,
+                    "startOffset": 52881,
                     "endColumn": 117,
-                    "endOffset": 52991
+                    "endOffset": 52994
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4689,10 +4689,10 @@
                 "to": {
                     "startLine": 698,
                     "startColumn": 4,
-                    "startOffset": 52996,
+                    "startOffset": 52999,
                     "endLine": 702,
                     "endColumn": 12,
-                    "endOffset": 53370
+                    "endOffset": 53373
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4710,9 +4710,9 @@
                 "to": {
                     "startLine": 703,
                     "startColumn": 4,
-                    "startOffset": 53375,
+                    "startOffset": 53378,
                     "endColumn": 121,
-                    "endOffset": 53492
+                    "endOffset": 53495
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4729,9 +4729,9 @@
                 "to": {
                     "startLine": 704,
                     "startColumn": 4,
-                    "startOffset": 53497,
+                    "startOffset": 53500,
                     "endColumn": 111,
-                    "endOffset": 53604
+                    "endOffset": 53607
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4748,9 +4748,9 @@
                 "to": {
                     "startLine": 705,
                     "startColumn": 4,
-                    "startOffset": 53609,
+                    "startOffset": 53612,
                     "endColumn": 115,
-                    "endOffset": 53720
+                    "endOffset": 53723
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4767,9 +4767,9 @@
                 "to": {
                     "startLine": 706,
                     "startColumn": 4,
-                    "startOffset": 53725,
+                    "startOffset": 53728,
                     "endColumn": 99,
-                    "endOffset": 53820
+                    "endOffset": 53823
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4786,9 +4786,9 @@
                 "to": {
                     "startLine": 707,
                     "startColumn": 4,
-                    "startOffset": 53825,
+                    "startOffset": 53828,
                     "endColumn": 114,
-                    "endOffset": 53935
+                    "endOffset": 53938
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4805,9 +4805,9 @@
                 "to": {
                     "startLine": 708,
                     "startColumn": 4,
-                    "startOffset": 53940,
+                    "startOffset": 53943,
                     "endColumn": 99,
-                    "endOffset": 54035
+                    "endOffset": 54038
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4824,9 +4824,9 @@
                 "to": {
                     "startLine": 709,
                     "startColumn": 4,
-                    "startOffset": 54040,
+                    "startOffset": 54043,
                     "endColumn": 103,
-                    "endOffset": 54139
+                    "endOffset": 54142
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4843,9 +4843,9 @@
                 "to": {
                     "startLine": 710,
                     "startColumn": 4,
-                    "startOffset": 54144,
+                    "startOffset": 54147,
                     "endColumn": 95,
-                    "endOffset": 54235
+                    "endOffset": 54238
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4862,9 +4862,9 @@
                 "to": {
                     "startLine": 711,
                     "startColumn": 4,
-                    "startOffset": 54240,
+                    "startOffset": 54243,
                     "endColumn": 87,
-                    "endOffset": 54323
+                    "endOffset": 54326
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4881,9 +4881,9 @@
                 "to": {
                     "startLine": 712,
                     "startColumn": 4,
-                    "startOffset": 54328,
+                    "startOffset": 54331,
                     "endColumn": 91,
-                    "endOffset": 54415
+                    "endOffset": 54418
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4900,9 +4900,9 @@
                 "to": {
                     "startLine": 713,
                     "startColumn": 4,
-                    "startOffset": 54420,
+                    "startOffset": 54423,
                     "endColumn": 113,
-                    "endOffset": 54529
+                    "endOffset": 54532
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",
@@ -4919,9 +4919,9 @@
                 "to": {
                     "startLine": 714,
                     "startColumn": 4,
-                    "startOffset": 54534,
+                    "startOffset": 54537,
                     "endColumn": 102,
-                    "endOffset": 54632
+                    "endOffset": 54635
                 },
                 "from": {
                     "file": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/values/values.xml",

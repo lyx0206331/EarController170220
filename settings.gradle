@@ -1,1 +1,1 @@
-include ':app', ':earctrllib'
+include ':app', ':earctrllib', ':agoralib'

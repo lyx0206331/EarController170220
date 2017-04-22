@@ -96,12 +96,12 @@
         "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png"
     },
     {
-        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
         "source": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/ranqing/.android/build-cache/c456b3b1d1028bf2d4c6dff6c127e8d2aad52001/output/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Volumes/MacintoshHD/StudioProjects/EarController170220/app/build/intermediates/res/merged/debug/drawable-hdpi/abc_ic_go_search_api_holo_light.png",
